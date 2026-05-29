@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aakash Kale 👋
 
-<!--
-**kaleaakash96/kaleaakash96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Firmware Engineer focused on ESP32, IoT systems, BLE communication, and PCB design.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Embedded C / C++
+- ESP32 / ESP8266
+- BLE & WiFi
+- UART / SPI / I2C
+- IoT Systems
+- PCB Design
+- KiCad / Altium
+- Hardware Debugging
+- FreeRTOS Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+
+### ESP32 BLE Macropad
+BLE HID macropad using ESP32 with media key support and custom firmware.
+
+### ESP32 NeoPixel Clock
+WiFi-enabled LED clock with real-time synchronization and animation effects.
+
+### ESP32 Student Attendance System
+Embedded attendance tracking system using ESP32 and sensor integration.
+
+### SmartCar ESP32
+ESP32-based robotic vehicle with wireless communication and motor control.
+
+## 📫 Connect With Me
+- LinkedIn: (your linkedin)
+- GitHub: github.com/kaleaakash96
